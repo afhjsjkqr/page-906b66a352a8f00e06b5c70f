@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-035813fa67.cwsgyhh.cn/sitemap.xml
